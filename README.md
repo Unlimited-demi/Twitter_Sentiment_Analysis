@@ -1,5 +1,3 @@
-Certainly! Here's an updated version of the README file that includes the `nltk.py` file:
-
 # Twitter Sentiment Analysis Project
 
 This project focuses on performing sentiment analysis on Twitter data using the NLTK Vader module. It involves analyzing a dataset of tweets, visualizing sentiment distributions, generating word clouds, and evaluating the accuracy and F1 score of the sentiment analysis model.
