@@ -1,0 +1,34 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+*.pyo
+*.pyd
+*.pyi
+*.pyz
+*.pyw
+
+# Dependency directories
+env/
+env.bak/
+env1/
+env2/
+env3/
+env4/
+env5/
+env6/
+env7/
+env8/
+env9/
+env10/
+env11/
+env12/
+env13/
+env14/
+env15/
+
+# Other
+.DS_Store
+*.log
+.idea/
+.vscode/
